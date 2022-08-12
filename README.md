@@ -1,0 +1,1 @@
+This is an executable library built using C++ which allows complex numbers to be represented so that you can perform operations with them. To use, download the KanbanRunner.exe and input your desired complex number calculations.
